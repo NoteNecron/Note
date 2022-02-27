@@ -1,11 +1,14 @@
 {
   "name": "note",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "Learning VueJs by building a personal website with it",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "./Deploy"
   },
   "dependencies": {
     "vue": "^3.2.25"
