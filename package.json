@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "./Deploy"
+    "deploy": "./Deploy.sh"
   },
   "dependencies": {
     "vue": "^3.2.25"

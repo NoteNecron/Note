@@ -1,4 +1,4 @@
-#!/usr/bin/env/bash
+#!/usr/bin/env/sh
 
 # Abort if an error occurs
 set -e
