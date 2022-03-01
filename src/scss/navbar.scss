@@ -1,0 +1,12 @@
+@import "./styles.scss";
+
+ul,
+li,
+a {
+  font-size: 1.5rem;
+  font-family: monospace;
+  text-align: center;
+  color: $color-link;
+  text-decoration: none;
+  list-style: none;
+}
