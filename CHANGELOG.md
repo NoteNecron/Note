@@ -10,3 +10,6 @@
 - 2022 March 1st 2:35PM
 - [+changelog, +colors, +styles, -tasks, +pages, +components, +tasks]
 - Added more colors, added styles, finished two tasks from the ToDo list, added the about page, navbar and added two more tasks.
+- 2022 March 1st 9:07PM
+- [+changes, +pages, +router, -component]
+- Working on the router, made a few changes in the pages and added a test page. Also, removed the HelloWorld thingy.

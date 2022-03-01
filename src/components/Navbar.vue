@@ -1,8 +1,13 @@
+<script setup>
+  import Home from "../pages/Home.vue";
+  import About from "../pages/About.vue";
+  import Test from "./Test.vue";
+</script>
+
 <template>
   <ul>
     <li>
-      <a href="/"> Home </a>
-      <a href="/about"> About </a>
+      <a href="./Test.vue">Test</a>
     </li>
   </ul>
 </template>
